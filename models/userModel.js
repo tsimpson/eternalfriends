@@ -26,7 +26,7 @@ const userSchema = new mongoose.Schema({
   },
   avatar: {
     type: String,
-    default: 'https://www.flaticon.com/svg/vstatic/svg/1738/1738691.svg?token=exp=1615776521~hmac=cb31764d667aac714df37c2558941489'
+    default: 'https://res.cloudinary.com/dzueiadnz/image/upload/v1616458711/avatar_cugq40_ztrxww.png'
   },
   role: {type: String, default: 'user'},
   gender: {type: String, default: 'male'},
