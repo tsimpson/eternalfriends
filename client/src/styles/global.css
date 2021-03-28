@@ -38,14 +38,13 @@ code {
   object-fit: cover;
 }
 
-.avatar {
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-}
 
-@import url("./styles/auth.css");
+@import url("./auth.css");
 
-@import url("./styles/loading.css");
+@import url("./loading.css");
 
-@import url("./styles/header.css");
+@import url("./header.css");
+
+@import url("./avatar.css");
+
+@import url("./header.css");
